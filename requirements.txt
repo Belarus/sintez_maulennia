@@ -1,0 +1,6 @@
+click==8.0.*
+numpy==1.21.*
+#soundfile==0.10.*
+librosa==0.8.1
+tqdm
+pydub
